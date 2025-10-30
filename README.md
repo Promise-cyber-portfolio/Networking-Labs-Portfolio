@@ -4,4 +4,5 @@ VLAN CONFIG ORG 2 <img width="747" height="669" alt="Screenshot 2025-10-30 19553
 VLAN CONFIG ORG 3 <img width="865" height="688" alt="Screenshot 2025-10-30 195613" src="https://github.com/user-attachments/assets/2ad416cc-a9f0-4360-bdbc-e68473fa8c9f" />
 TOPOLOGY SCREENSHOT <img width="1167" height="601" alt="Screenshot 2025-10-30 195646" src="https://github.com/user-attachments/assets/b36b4b7d-f1d5-4eec-9af7-5216a665e2b1" />
 PING COMMAND From org 1 to org 2 <img width="965" height="931" alt="Screenshot 2025-10-30 195849" src="https://github.com/user-attachments/assets/65437316-1feb-404c-9a6b-f047bba8ea48" />
-packet message successful <img width="1917" height="864" alt="Screenshot 2025-10-30 195758" src="https://github.com/user-attachments/assets/1d2704a1-82bb-4f9d-a33f-65d0b5c40865" />
+packet mess<img width="1140" height="737" alt="Screenshot 2025-10-30 201403" src="https://github.com/user-attachments/assets/43b51ddb-c34b-4286-9671-b213cc11131c" />
+assigning ip addresses age successful <img width="1917" height="864" alt="Screenshot 2025-10-30 195758" src="https://github.com/user-attachments/assets/1d2704a1-82bb-4f9d-a33f-65d0b5c40865" />
