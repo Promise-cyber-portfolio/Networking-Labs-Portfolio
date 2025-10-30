@@ -1,1 +1,1 @@
-Hands-on networking labs and configurations using Cisco Packet Tracer — part of my practical learning in CompTIA Network+ and cybersecurity fundamentals.
+This repository contains my Networking Labs Portfolio, each lab focuses on networking skills such as configuring routers, switches, and PCs in Cisco Packet Tracer, setting up LANs, WANs, and VLANs, implementing static and dynamic routing, applying firewall rules and security policies, understanding IP addressing, subnetting, and network topologies.
